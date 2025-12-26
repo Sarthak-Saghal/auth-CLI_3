@@ -7,7 +7,8 @@ A **futuristic neon-themed authentication UI** featuring **animated diamond laye
  correct his read me
 
 
-```
+---
+
 ### 📦 Dependencies Installation (Required)
 
 Before running the project, install the following dependencies:
@@ -17,20 +18,17 @@ Used for client-side routing and navigation.
 
 ```bash
 npm install react-router-dom
-```
+
 
 ```
 ### Framer Motion
-
 ``` bash
 npm install framer-motion
-```
 ```
 ### React Icons
 
 ```bash
 npm install react-icons
-
 ```
 
 
