@@ -17,12 +17,14 @@ Used for client-side routing and navigation.
 
 ```bash
 npm install react-router-dom
-
+```
 
 ```
 ### Framer Motion
+
 ``` bash
 npm install framer-motion
+```
 ```
 ### React Icons
 
