@@ -1,5 +1,5 @@
 
-### React Authintication
+# React Authintication
 A **modern React authentication system featuring secure login, signup, and password recovery flows with smooth routing and polished UI interactions**.
 # 💎 Neon Diamond Login UI
 
