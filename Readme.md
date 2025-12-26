@@ -4,7 +4,7 @@ A **modern React authentication system featuring secure login, signup, and passw
 # 💎 Neon Diamond Login UI
 
 A **futuristic neon-themed authentication UI** featuring **animated diamond layers, glowing effects, and glassmorphism styling**.  
- correct his read me
+
 
 
 ---
